@@ -1,0 +1,23 @@
+PODS:
+  - Kiwi (3.0.0)
+  - WXShareToolKit (0.1.0)
+
+DEPENDENCIES:
+  - Kiwi
+  - WXShareToolKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Kiwi
+
+EXTERNAL SOURCES:
+  WXShareToolKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+  WXShareToolKit: 744d8f667f2d1f935c01c0627ada1829934a3e1d
+
+PODFILE CHECKSUM: 07ef82e1a78e761e5fb809ff0f6182b8613291c0
+
+COCOAPODS: 1.9.2
